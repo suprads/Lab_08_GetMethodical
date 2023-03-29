@@ -1,2 +1,6 @@
-package PACKAGE_NAME;public class BirthDateTime {
+public class BirthDateTime
+{
+    public static void main(String[] args) {
+
+    }
 }

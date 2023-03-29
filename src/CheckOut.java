@@ -1,2 +1,9 @@
-package PACKAGE_NAME;public class CheckOut {
+import java.util.Scanner;
+
+public class CheckOut
+{
+    private static Scanner in = new Scanner(System.in);
+    public static void main(String[] args) {
+
+    }
 }
